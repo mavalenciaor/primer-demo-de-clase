@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 This is the second test.
 This is my second test using my computer.***********************
+=======
+This is the second test.-------------------------
+This is my second test using my computer.
+>>>>>>> f8cab82e30f1ddf24fdf6b7bfd362f0f3283908d
+

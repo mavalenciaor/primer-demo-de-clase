@@ -1,3 +1,6 @@
 This is just the test.
 I'm adding this--------------
 Modifying from my computer
+This is just the test.**********
+I'm adding this
+Modifying from my computer
